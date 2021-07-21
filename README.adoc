@@ -226,6 +226,10 @@ Când o pisică-pacientă necesită Transfuzie, Cabinetul Veterinar:
 
 - sună proprietarii pisicilor respectiv, rugându-i să aducă pisica la Cabinet pentru a îi fi recoltat sânge.
 
+Unele Cabinete Veterinare îngrijesc un număr de pisici. În cazuri de urgenţă, pot recolta sânge de la unele din pisicile proprii.
+
+Adesea, colegi din personalul Cabinetului Veterinar aduc de acasă propriile pisici cărora le e recoltat sânge pentru a ajuta pisicile-bolnave.
+
 
 
 [#grupe, Grupele de sânge]
@@ -257,16 +261,31 @@ image::Test_01.jpg[Cat-Blood-Test-2]
 
 
 
-== Transfuzie vs Transfuzii
+== Condiţiile pentru ca o pisică să poată dona sânge
 
-Am înlocuit adesea singularul (e.g.: "Când e necesară o Transfuzie de sânge ?", "O Transfuzie poate salva viaţa…")
-cu pluralul (e.g.: "Când sunt necesare transfuziile de sânge ?", "Transfuziile de sânge pot salva vieţile…")
-deoarece adesea se întâmplă ca un singur pacient să aibă nevoie de Transfuzii repetate, uneori chiar şi într-un interval scurt de timp.
+Condiţiile ideale ar fi:
 
-Un exemplu ar fi cazul unei pisicuţe, atunci în vârstă de 6 luni, infectate cu Virusul Panleukopeniei Feline (FPV),
-care a avut nevoie de 10 transfuzii -- evident, de la 10 pisici difeite -- a câte aproximativ 50 ml.
-Din fericire, pisicuţa respectivă a reuşit să învingă boala şi a fost foarte sănătoasă apoi.
-Numele pisicuţei era Whiskas. (-:
+- să aibă vârsta între 1 an şi 8 ani;
+
+- să aibă o stare generală bună şi o masă corporală adecvată;
+
+- să fi primit Vaccinurile conform schemei de vaccinare;
+
+- să fie testată infecatarea cu Virusul Imunodeficienţei Feline (FIV) şi Virusul Leucemiei Feline (FeLV);
+
+- să fi trecut suficient de mult timp de la ultima donare de sânge.
+
+
+
+== Cât timp trebuie să treacă între două donaţii de sânge ?
+
+Din nefericire, din cauza numărului prea mic de pisici-donatoare disponibile,
+adesea cele care sunt duse de proprietari la donat ajung să fie duse prea des.
+
+Dacă mai mulţi proprietari ar accepta ca pisicile lor să doneze sânge la interval,
+intervalul dintre donaţii ar putea fi prelungit la 3-4 luni.
+
+E important ca atât Cabinetele, cât şi proprietarii, să menţină evidenţa donaţiilor (e.g.: folosind o foaie scrisă de mână şi prinsă cu un magnet de frigide.
 
 
 
@@ -286,11 +305,23 @@ Altfel, starea pisicii se poate degrada rapid
 Adesea trebuie profitat cât mai mult de îmbunătăţirea, chiar şi temporară, a stării pisicii în urma transfuziei.
 De exemplu, medicul poate recomanda mâncare cât mai hrănitoare pentru a profita de revenirea, chiar şi temporară, a apetitului.
 
-[.indent]
 Un efect des întâlnit al Anemiei e lipsa apetitului, ceea ce în cazul pisicilor e un aspect foarte grav: dacă o pisică nu mănâncă, starea ei se degradează foarte repede.
 
 În unele cazuri, medicul profită de starea îmbunătăţită, chiar şi temporar, pentru a efectua o intervenţie chirurgicală necesară.
 Într-adevăr, adesea sunt necesare donaţii de sânge tocmai în vederea unei intervenţii chirurgicale (adesea urgente pentru viaţa pisicii).
+
+
+
+== Transfuzie vs Transfuzii
+
+Am înlocuit adesea singularul (e.g.: "Când e necesară o Transfuzie de sânge ?", "O Transfuzie poate salva viaţa…")
+cu pluralul (e.g.: "Când sunt necesare transfuziile de sânge ?", "Transfuziile de sânge pot salva vieţile…")
+deoarece adesea se întâmplă ca un singur pacient să aibă nevoie de Transfuzii repetate, uneori chiar şi într-un interval scurt de timp.
+
+Un exemplu ar fi cazul unei pisicuţe, atunci în vârstă de 6 luni, infectate cu Virusul Panleukopeniei Feline (FPV),
+care a avut nevoie de 10 transfuzii -- evident, de la 10 pisici difeite -- a câte aproximativ 50 ml.
+Din fericire, pisicuţa respectivă a reuşit să învingă boala şi a fost foarte sănătoasă apoi.
+Numele pisicuţei era Whiskas. (-:
 
 
 
