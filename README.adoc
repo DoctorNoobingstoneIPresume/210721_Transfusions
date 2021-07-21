@@ -1,0 +1,435 @@
+﻿= [2021-07-19] Transfuziile de sânge pentru pisici
+:docinfo: shared
+:date: 2021-07-19
+:toc: macro
+
+
+== Notă importantă
+
+[.red]
+Pentru pisicile-receptoare e vital să primească doar sânge compatibil.
+Chiar şi o cantitate mică de sânge incompatibil poate cauza moartea.
+
+A se vedea secţiunea <<grupe>>.
+
+Injectarea sângelui trebuie sa fie facută cu debit foarte mic (pe parcursul mai multor ore) şi cu atentă supraveghere medicală.
+
+image::18_103988.jpg[]
+(Imagine preluată din pagina https://www.vetstream.com/treat/felis/technique/blood-transfusion[].)
+
+
+
+== Scopul acestui document
+
+Anemia înseamnă oxigenare redusă a ţesuturilor/organelor.
+Adesea e determinată de deficit de Globule Roşii
+(celule din sânge care au funcţia de a transporta Oxigenul către ţesuturi/organe -- practic de a le menţine vii).
+
+Formele uşoare ale Anemiei cauzează oboseală şi stare de slăbiciune.
+Formele grave ale Anemiei pun în pericol imediat viaţa pacientului, reprezentând urgenţe medicale.
+
+Transfuziile de sânge pot face o diferenţă enormă:
+
+- corectând rapid, în regim de urgenţă, Anemia;
+- menţinând pisica în viaţă până la determinarea-şi-corectarea cauzei din spatele Anemiei.
+
+Există (chiar mai pregnant decât în medicina umană)
+prea mulţi pacienţi care au nevoie de sânge
+şi prea puţini donatori care să fie aduşi la Cabinete Veterinare pentru a le fi recoltat sânge.
+
+Acest document se adresează proprietarilor de pisici pentru a îi încuraja:
+
+- să îşi înscrie pisicile pe listele de donatori menţinute de Cabinetele Veterinare;
+- [red]#să răspundă apelurilor Cabinetelor, transportându-şi la nevoie pisicile la Cabinete pentru a fi testate şi pentru a le fi recoltat sânge
+(ajutând astfel pisicile bolnave)#;
+- să menţină, pentru fiecare pisică-donatoare, evidenţa donaţiilor, testelor şi vaccinurilor
+(evitând astfel ca o pisică să doneze prea des sau după vârsta de 8 ani).
+
+toc::[]
+
+
+
+== Transfuziile în medicina veterinară
+
+[red]#Pentru oameni#, prima transfuzie de sânge documentată a avut loc în 1818,
+iar transfuziile de sânge au fost adoptate pe scară largă în anii 1920-1930
+când au fost introduse substanţele anti-coagulante (ceea ce a permis stocarea sângelui şi crearea băncilor de sânge).
+Medicina transfuziilor de sânge uman s-a dezvoltat într-o ştiinţă foarte avansată.
+
+[red]#În medicina veterinară#,
+transfuziile pot avea un rol la fel de important în situaţiile de urgenţă şi de terapie intensivă -- pot salva vieţile pacienţilor.
+
+Dar, [red]#pentru animale#, transfuziile sunt efectuate mai rar deoarece:
+
+- există prea puţini donatori care să fie aduse (de către proprietari) la Cabinete în caz de nevoie;
+
+- unii donatori necesită uneori o sedare uşoară pentru a le putea fi recoltat sânge;
+
+- uneori, vieţile animalelor nu sunt percepute ca fiind la fel de importante ca vieţile oamenilor.
+
+[red]#Pentru pisici# (spre deosebire de câini), apare în plus:
+
+- dificultatea stocării pe termen lung a sângelui.
+
+Totuşi, există şi [red]#veşti bune#:
+
+- Numărul Cabinetelor şi cadrelor medicale care au experienţă în Transfuziile de sânge a crescut semnificativ.
+
+- Procentul pisicilor-donatoare care nu necesită sedare a crescut (inclusiv ca urmare a acumulării experienţei de către Cabinete).
+
+- Distribuţia disproporţionată a grupelor de sânge funcţionează, cel mai adesea, în favoarea pacienţilor:
+
+* - cel mai adesea, pisica-bolnavă necesită sânge de grupa A;
+* - chiar dacă nu e cunoscută grupa de sânge a pisicii-potenţial-donatoare, ar fi bine să răspundem apelului ducând pisica la Cabinet;
+* - iniţial, îi e recoltată iniţial o cantitate foarte mică de sânge pentru a îi fi testată grupa;
+* - cel mai adesea, grupa se dovedeşte a fi A şi va putea dona sânge pentru acest pacient;
+* - dacă însă grupa se dovedeşte a fi B, chiar dacă nu poate dona sânge pentru acest pacient, a fost descoperită o Comoară -- o pisică extrem de rară care va putea ajuta cazurile disperate în care şi pisica-bolnavă are grupa B.
+
+
+
+== Ce elemente sunt oferite pisicii-bolnave prin Transfuzii ?
+
+În Tranfuziile de sânge, principalele elemente care sunt oferite pisicii-bolnave sunt:
+
+- Globule Roşii;
+- Plasmă;
+- Trombocite.
+
+În medicina umană,
+sângele donat e adesea separat în aceste trei componente
+astfel încât fiecare componentă să poată fi folosită individual în funcţie de necesităţile pacienţilor
+(având în vedere şi criteriile diferite de compatibilitate pentru Globule Roşii faţă de cele pentru Plasmă).
+
+În medicina veterinară,
+separarea sângelui în componente,
+deşi e uneori folosită la transfuziile între câini,
+e mai rară la transfuziile între pisici.
+
+Unul dintre motive e nu putem stoca pe durate nelimitate de timp sângele de pisică (în special Globulele Roşii).
+Astfel, pentru o Transfuzie, cel mai adesea trebuie recoltat sânge proaspăt.
+
+
+
+=== Globulele Roşii
+
+Globulele Roşii -- ("Red Blood Cells"), numite şi Hematii ("Haematides") sau Eritrocite ("Erythrocytes") --
+sunt celule fără nucleu, cu membrana flexibilă, a căror citoplasmă conţine molecule de Hemoglobină,
+ele putând astfel transporta Oxigenul către ţesuturi pentru arderile care furnizează energia necesară funcţionării organismului.
+
+Tot Globulele Roşii sunt responsabile pentru transportul al Dioxidului de Carbon (rezultat ca produs secundar al acestor arderi) către plămâni (pentru expirare).
+
+Surplusul de Globule Roşii oferit prin Transfuzii poate ajuta pentru a corecta deficitul de Globule Roşii -- o formă a Anemiei.
+
+[.indent]
+"Anemie" înseamnă capacitate redusă de oxigenare a ţesuturilor/organelor.
+Formele uşoare ale Anemiei cauzează oboseală şi stare de slăbiciune.
+Formele grave ele Anemiei pun în pericol imediat viaţa pacientului.
+
+Exemple de afecţiuni care cauzează deficit de Globule Roşii:
+
+- boli cronice (inflamaţii sau infecţii, tumori, Leucemie, boli ale Ficatului, dezechilibre hormonale);
+
+- afecţiuni ale Măduvei Spinării (care e responsabilă de producerea de Globule Roşii);
+
+- Insuficienţa Renală (CKD: Chronic Kidney Disease)
+(Rinichii fiind responsabili de producerea Erythroproietinei, un hormon care stimulează producerea de Globule Roşii în Maduva Spinării);
+
+- otrăvirea;
+
+- infecţia cu Bacteria Mycoplasma
+(care cauzează o reacţie auto-imună, în care organismul îşi atacă propriile Globule Roşii);
+
+- infecţia cu Virusul Panleukopeniei Feline (FPV)
+(care poate cauza atât deficit de Globule Roşii, cât şi deficit de Globule Albe, şi pentru care există uneori şi opţiunea transferului de Albumină Umană);
+
+- infecţia cu Retroviruşi: Virusul Imunodeficienţei Feline (FIV) sau Virusul Leucemiei Feline (FeLV);
+
+- infecţia cu Bacteria Haemo-Bartonella;
+
+- infestaţia masivă cu purici;
+
+- deficienţe de nutriţie (înfometare sau lipsa unor elemente nutritive);
+
+- traumatisme/hemoragii;
+
+- infecţia cu Parazitul Babesioza Felină.
+
+
+
+=== Plasma
+
+Plasma e componenta lichidă a sângelui (în care sunt suspendate Globulele Roşii).
+
+Plasma conţine numeroase proteine cu funcţii esenţiale:
+
+- Albumina e proteina majoră din sânge, având rolul de a menţine sângele în circulaţie.
+
+- Alte substanţe chimice şi hormoni pot fi transportate prin corp fiind ataşate de Albumină.
+
+- Factorii-de-Coagulare sunt proteine importante care ajută sângele să se coaguleze atunci când un vas de sânge e afectat/deteriorat/distrus.
+
+- O varietate de proteine numite "Mediatori-de-Inflamare" sunt produse în timpul unei inflamaţii pentru a ajuta la combaterea infecţiilor şi pentru a normaliza inflamaţia.
+
+
+
+=== Trombocitele
+
+Trombocitele ("Tromobocytes"), numite (în cazul mamiferelor) şi Plateleţi ("Plateletes"),
+sunt globule mici din sânge care,
+împreună cu Factorii-de-Coagulare (nişte proteine din Plasmă),
+au un rol important în coagularea sângelui,
+prevenind hemoragia excesivă în cazul diverselor răniri/afecţiuni.
+
+
+
+
+
+== Transfuzie vs Transfuzii
+
+Am înlocuit adesea singularul (e.g.: "Când e necesară o Transfuzie de sânge ?", "O Transfuzie poate salva viaţa…")
+cu pluralul (e.g.: "Când sunt necesare transfuziile de sânge ?", "Transfuziile de sânge pot salva vieţile…")
+deoarece adesea se întâmplă ca un singur pacient să aibă nevoie de Transfuzii repetate, uneori chiar şi într-un interval scurt de timp.
+
+Un exemplu ar fi cazul unei pisicuţe, atunci în vârstă de 6 luni, infectate cu Virusul Panleukopeniei Feline (FPV),
+care a avut nevoie de 10 transfuzii -- evident, de la 10 pisici difeite -- a câte aproximativ 50 ml.
+Din fericire, pisicuţa respectivă a reuşit să învingă boala şi a fost foarte sănătoasă apoi.
+Numele pisicuţei era Whiskas. (-:
+
+
+
+[#grupe, Grupele de sânge]
+== Grupele de sânge
+
+Grupele de sânge reprezintă principalul criteriu de compatibilitate între pisica-donatoare şi pisica-receptoare.
+
+Există trei grupe de sânge (determinate genetic si menţinute de-a lungul vieţii):
+
+- o pisică având grupa A (foarte des întâlnită) trebuie să primească numai sânge tot de grupa A;
+
+- o pisică având grupa B (foarte rar întâlnită) trebuie să primească numai sânge tot de grupa B;
+
+- o pisică având grupa AB (chiar şi mai rar întâlnită) poate să primească sânge de orice grupă
+(fiind totuşi preferate pisicile-donatoare cu grupa A
+pentru a păstra pisicile-donatoare cu grupa B -- care sunt extrem de rare -- disponibile pentru pisicile-bolnave cu grupa B).
+
+Grupa de sânge e determinată
+folosind un eşantion foarte mic de sânge
+şi un dispozitiv de unică folosinţă pentru testarea grupei (care, în anul 2021, costă între 120 RON şi 150 RON).
+
+Trebuie determinate grupele de sânge pentru ambele pisici (cea donatoare şi cea receptoare).
+
+image::Cat-Blood-Test.jpg[Cat-Blood-Test]
+(Imagine preluată din pagina https://allaboutcats.com/cat-blood-transfusion[].)
+
+image::Test_01.jpg[Cat-Blood-Test-2]
+(Imagine preluată dintr-un site pe care nu mi-l amintesc.)
+
+
+
+[#cause]
+== Importanţa tratării cauzei din spatele Anemiei
+
+Chiar dacă starea unei pisici se îmbunătăţeşte semnificativ (e.g.: în urma primirii unei transfuzii de sânge compatibil),
+e vital ca pisica să fie consultată temeinic de un medic veterinar
+şi să urmeze un tratament pentru cauza (chiar şi doar prezumtivă) din spatele anemiei.
+
+Starea pisicii trebuie observată atent pe parcursul tratamentului şi trebuie raportată medicului veterinar.
+
+Altfel, starea pisicii se poate degrada rapid
+(e.g.: când efectul benefic al transfuziei dispare)
+şi pisica se poate anemia din nou şi poate muri.
+
+Adesea trebuie profitat cât mai mult de îmbunătăţirea, chiar şi temporară, a stării pisicii în urma transfuziei.
+De exemplu, medicul poate recomanda mâncare cât mai hrănitoare pentru a profita de revenirea, chiar şi temporară, a apetitului.
+
+[.indent]
+Un efect des întâlnit al Anemiei e lipsa apetitului, ceea ce în cazul pisicilor e un aspect foarte grav: dacă o pisică nu mănâncă, starea ei se degradează foarte repede.
+
+În unele cazuri, medicul profită de starea îmbunătăţită, chiar şi temporar, pentru a efectua o intervenţie chirurgicală necesară.
+Într-adevăr, adesea sunt necesare donaţii de sânge tocmai în vederea unei intervenţii chirurgicale (adesea urgente pentru viaţa pisicii).
+
+
+
+== Bla, bla, bla
+
+
+
+== Care sunt cauzele Anemiei ?
+
+
+
+
+== Cum e diagnosticata Anemia ?
+
+
+
+
+
+
+
+== Cum pot proprietarii de pisici donatoare sa colaboreze cu Cabinetele Veterinare ?
+
+* one
+* two
+
++ three
++ four
+
+
+
+
+
+
+
+- [initial:] înscriindu-si pisicile pe listele de donatori;
+
+- [initial:] ducându-si pisicile la Cabinete pentru testarile necesare (grupa de sânge, boli care pot fi transmise prin sânge etc.);
+
+- [periodic:] ducându-si pisicile la Cabinete pentru Vaccinari conform schemei recomandate de Medicul Veterinar;
+
+- [în caz de nevoie/urgenta:] raspunzând apelurilor Cabinetelor pentru a îsi duce o pisica sa doneze sânge;
+
+- [permanent:] mentinând evidenta donatiilor de sânge pentru fiecare pisica: data, cantitate, comportament în timpul recoltarii.
+
+
+
+== Când sunt necesare transfuziile de sânge ?
+
+O transfuzie de sânge ofera rapid o cantitate de globule rosii
+footnote:RBC[Globulele rosii ("red blood cells", "RBC") mai sunt numite si hematii ("haematids") sau eritrocite ("erythrocites").].
+Globulele rosii au un rol esential în oxigenarea tesuturilor/organelor, practic mentinându-le în viata si functionale.
+
+Asadar, transfuziile pot salva viata în cazurile de anemie severa.
+
+
+
+== Anemia
+
+=== Ce este anemia ?
+
+Anemie înseamna deficit de globule rosii în sânge (sau, mai rar, oxigenare redusa a tesuturilor/organelor din alte motive).
+
+
+
+=== Care sunt efectele anemiei ?
+
+Formele usoare ale anemiei cauzeaza oboseala si stare de slabiciune.
+
+Formele grave ale anemiei pun în pericol imediat viata pacientului (si reprezinta urgente medicale care impun transfuzie de sânge compatibil).
+
+
+
+=== Cum e diagnosticata anemia ?
+
+În lipsa aparaturii, anemia poate fi diagnosticata vizual, prin inspectarea mucoaselor (TODO: gingii si ce altceva ?).
+În mod normal, mucoasele ar trebui sa fie roz, dar, în cazul pisicilor anemice, sunt albe.
+
+Pentru diagnosticarea mai exacta, sunt recoltate, la un Cabinet Veterinar, câteva picaturi de sânge care sunt apoi utilizate într-un aparat de masura.
+
+Aparatul respectiv stabileste procentul volumetric ocupat de globulele rosii în sânge.
+Aceasta valoare e numita HCT (Hematocrit) sau PCV (Packed-Call-Volume) si, simplist, poate fi interpretata astfel:
+
+- Hematocrit între 25% si 45%:
+  Acestea sunt valorile pentru o pisica sanatoasa.
+
+- Hematocrit între 20% si 25%:
+  Valoarea trebuie corectata curând prin Transfuzie sau alta metoda.
+  Pisica trebuie urmarita atent si Hematocritul trebuie .
+
+- Hematocrit sub 20%:
+  Viata pisicii e în pericol imediat.
+  Pisica are urgent nevoie de Transfuzie.
+
+Masurarea Hematocritului, cu aparatul respectiv, dureaza doar câteva minute.
+
+Dar un astfel de aparat e destul de scump si unele Cabinete nu îl au.
+În aceste cazuri, pot trimite esantionul de sânge catre un alt Cabinet sau catre un Laborator.
+Dezavantajul e ca, astfel, dureaza mai mult obtinerea unei masurari.
+(Totusi, cu siguranta, între timp, medicul va inspecta vizual mucoasele.)
+
+Uneori, pentru a fi obtinuta mai rapid o masuratoare, în locul curierului, proprietarul pisicii e cel care transporta esantionul de sânge (într-o punga de gheata).
+
+Esantionul poate fi folosit doar pentru a masura hematocritul sau pentru a obtine o heleucograma completa.
+De asemenea, poate fi folosit pentru a testa grupa de sânge.
+
+
+
+
+== Care sunt cauzele anemiei ?
+
+
+
+
+
+
+
+
+== Cum e diagnosticata anemia ?
+
+
+
+
+== Bla, bla, bla...
+
+
+
+
+Dar, în afara 
+
+
+
+
+=== Anemia
+
+Anemia reprezinta deficitul de Globule Rosii (numite si Hematii sau Eritrocite) în sânge.
+
+Globulele Rosii au rolul de a transporta oxigenul catre tesuturi/organe, practic mentinându-le vii,
+iar deficitul de Globule Rosii pune viata animalului în pericol.
+
+
+
+
+
+Anemia poate fi diagnosticata astfel:
+
+
+
+
+== Ciorna
+
+Trebuie testate atât grupa pisicii-paciente, cât si grupa pisicii-donatoare,
+folosind *pentru fiecare dintre ele* câteva picaturi de sânge recoltate si un "test de grupa" (care costa aproximativ 120 RON).
+
+Exista doua grupe principale: Grupa A (des întâlnita), Grupa B (rar întâlnita) si Grupa AB (chiar si mai rar întâlnita).
+
+
+
+== Avertismente
+
+Pentru pisicile-paciente e vital sa primeasca sânge doar de la pisici-donatoare cu grupe compatibile !
+Chiar si o cantitate infima de sânge dintr-o grupa incompatibila poate cauza moartea pisicii-paciente !
+
+Atât recoltarea sângelui de la pisica-donatoare cât si injectarea acestuia catre pisica-pacienta
+trebuie efectuate numai de catre personal medical.
+Sângele recoltat la un Cabinet poate fi transportat la alt Cabinet,
+dar trebuie urmate indicatiile specifice ale medicilor veterinari privind conditiile si durata transportului.
+
+Injectarea sângelui trebuie facuta cu un debit foarte mic, de-a lungul a 4 pâna la 6 ore, cu supraveghere atenta a pisicii-paciente.
+
+
+
+== Contact
+
+Autorul acestui document nu e medic veterinar.
+E important sa consultati un medic veterinar pentru a primi informatii mai bune.
+
+Orice corectii si sugestii pentru îmbunatatirea acestui document sunt bine-venite (email: adder_2003@yahoo.com).
+
+
+
+== Referinte
+
+- https://icatcare.org/advice/blood-transfusions-in-cats/
+- https://www.merckvetmanual.com/cat-owners/blood-disorders-of-cats/red-blood-cells-of-cats
+- https://www.vetinfo.com/cencyclopedia/cebloodtype.html
+- https://allaboutcats.com/cat-blood-transfusion
