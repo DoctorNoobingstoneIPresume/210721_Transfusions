@@ -73,7 +73,7 @@ Dar, [red]#pentru animale#, transfuziile sunt efectuate mai rar deoarece:
 
 Totuşi, există şi [red]#veşti bune#:
 
-- Numărul Cabinetelor şi cadrelor medicale care au experienţă în Transfuziile de sânge a crescut semnificativ.
+- Numărul Cabinetelor şi Cadrelor Medicale care au experienţă în Transfuziile de sânge a crescut semnificativ.
 
 - Procentul pisicilor-donatoare care nu necesită sedare a crescut (inclusiv ca urmare a acumulării experienţei de către Cabinete).
 
@@ -275,6 +275,13 @@ Condiţiile ideale ar fi:
 
 - să fi trecut suficient de mult timp de la ultima donare de sânge.
 
+Sunt preferate pisicile care locuiesc doar în casă/apartament faţă de cele care au acces la exterior
+deoarece 
+
+Dar din  cauza numărului mare de cazuri, a gradului adesea ridicat al urgenţei cazurilor şi a numărului mic de donatori,
+pentru a putea ajuta pisicile-paciente în stare critică adesea sunt acceptate pisici-donatoare care nu întrunesc toate condiţiile.
+Totuşi, grupele de sânge trebuie testate mereu (atât pentru pisica-donatoare, cât şi pentru pisica-receptoare).
+
 
 
 == Cât timp trebuie să treacă între două donaţii de sânge ?
@@ -285,7 +292,82 @@ adesea cele care sunt duse de proprietari la donat ajung să fie duse prea des.
 Dacă mai mulţi proprietari ar accepta ca pisicile lor să doneze sânge la interval,
 intervalul dintre donaţii ar putea fi prelungit la 3-4 luni.
 
-E important ca atât Cabinetele, cât şi proprietarii, să menţină evidenţa donaţiilor (e.g.: folosind o foaie scrisă de mână şi prinsă cu un magnet de frigide.
+E important ca atât Cabinetele, cât şi proprietarii, să menţină evidenţa donaţiilor (e.g.: folosind o foaie scrisă de mână şi prinsă cu un magnet de frigider).
+
+
+
+== Care e procedura de colaborare între proprietarii de pisici-donatoare şi Cabinete Veterinare ?
+
+Când o pisică-bolnavă aflată în grija Cabinetului Veterinar are nevoie de Transfuzie,
+personalul Cabinetului contactează proprietarii din lista pisicilor-donatoare,
+menţionându-le:
+
+- grupa de sânge a pisicii-bolnave;
+- gradul de urgenţă (e.g.: "Are nevoie de sânge într-o oră." sau "Are nevoie de sânge în noaptea aceasta." sau "Are nevoie de sânge în următoarele 24 de ore.");
+- eventual câteva cuvinte despre afecţiunea pisicii-bolnave (sau, oricum, nivelul Hematocritului).
+
+Proprietarii verifică datelor ultimelor donaţii pentru pisici (confirmând cu Medicul Veterinar riscul unei noi recoltări de sânge).
+
+Chiar dacă nu e cunoscută grupa de sânge a unei pisici-donatoare,
+putem să o ducem la Cabinet (desigur, în urma confirmării cu Cabinetul), urmând să îi fie testată grupa de sânge (din câteva picături de sânge)
+înainte de a îi fi recoltat sânge pentru transfuzie.
+
+Uneori nu putem duce pisica-donatoare la Cabinet în intervalul de timp ideal (e.g.: într-o oră).
+Dar dacă putem face asta mai târziu (sau a doua zi sau a treia zi etc.), atunci oricum e bine să sunăm din nou la Cabinet şi să întrebăm dacă mai e cazul.
+Cabinetul ne va confirma dacă pisica-bolnavă a supravieţuit şi dacă necesită, în continuare, Transfuzie.
+
+O parte din pisici pot dona sânge fără să necesite sedare.
+Medicii Veterinari vor încerca iniţial să recolteze sânge fără sedare.
+Dacă nu reuşesc, vor cere acordul proprietarului pentru sedare.
+Dacă recoltarea de sânge a necesitat sedare, Medicul poate uneori să administreze pisicii-donatoare un anti-sedativ.
+
+Există şi un revers optimist: Unele pisici care au necesitat sedare în trecut pot ajunge să doneze sânge fără sedare.
+
+E important ca proprietarul să rămână la Cabinet pe toată durata recoltării (deoarece o prezenţă familiară poate linişti pisica).
+
+Medicul Veterinar poate ruga proprietarul să mai rămână pentru o perioadă de timp (e.g. o jumătate de oră)
+pentru ca pisica-donatoare să poată fi supravegheată medical.
+
+Pisica poate primi ca recompensă un pliculeţ hrănitor şi delicios (şi chiar e recomandat să primească). Dar multe pisici vor mânca doar odată ce ajung acasă şi se liniştesc.
+
+
+
+== Care sunt riscurile asupra pisicii-donatoare ?
+
+Pentru toate pisicile, orice deplasare în afara casei implică riscul de a fi pierdute pe drum.
+
+- E important ca pisica să fie transportată într-o cuşcă de transport a cărei închidere şi siguranţă să fie verificată de fiecare dată.
+
+- E adesea util să învelim cuşca de transport (de exemplu într-o faţă de pernă încheiată cu nasturi sau cu ace de siguranţă sau cu cârlige de rufe):
+
+* Orientată cu deschiderea invers faţă de uşa cuştii, învelitoarea poate servi şi ca un mecanism suplimentar de siguranţă.
+* Învelirea cuştii de transport reduce stimulii vizuali şi auditivi, ceea ce poate ajuta mult la calmarea pisicii.
+* E important să lăsăm loc să intre aerul.
+
+- Dacă temperatura din maşină permite (e.g. dacă funcţionează aerul condiţionat), e preferat ca geamurile maşinii să fie ridicate complet (sau să fie coborâte foarte puţin) -- tot ca o măsură suplimentară de protecţie.
+
+Pentru majoritatea pisicilor, orice deplasare la un Cabinet Veterinar implică un stres psihologic.
+Din fericire, în majoritatea cazurilor, odată reajunse acasă, pisicile îşi revin relativ repede.
+
+Riscurile recoltării de sânge în cazurile în care pisica necesită sedare vor fi prezentate de Medicul Veterinar.
+
+E important ca proprietarii, în paralel cu Cabinetele Veterinare, să menţină şi să prezinte Medicului Veterinar evidenţa donaţiilor pentru fiecare pisică:
+
+- dată;
+- cantitate de sânge recoltată (e.g. 50 ml);
+- comportamentul pisicii în timpul recoltării, după recoltare şi după întoarcerea acasă.
+
+E posibil ca o pisică ce a necesitat sedare în trecut să poată ulterior dona sânge fără sedare.
+
+
+
+== Care sunt riscurile asupra pisicii-bolnave ?
+
+În multe dintre cazurile în care Cabinetele Veterinare ajung să solicite donaţie de sânge, pisica-bolnavă e deja într-o stare destul de gravă şi va muri dacă nu beneficiază de Transfuzie.
+
+E important ca pisica-bolnavă să primească doar sânge de la o pisică-donatoare cu grupă de sânge compatibilă (altfel, riscul de a muri fiind foarte ridicat).
+
+E important ca injectarea sângelui să fie făcută cu debit scăzut (de-a lungul câtorva ore) şi cu atentă supraveghere medicală.
 
 
 
@@ -293,21 +375,21 @@ E important ca atât Cabinetele, cât şi proprietarii, să menţină evidenţa 
 == Importanţa tratării cauzei din spatele Anemiei
 
 Chiar dacă starea unei pisici se îmbunătăţeşte semnificativ (e.g.: în urma primirii unei transfuzii de sânge compatibil),
-e vital ca pisica să fie consultată temeinic de un medic veterinar
+e vital ca pisica să fie consultată temeinic de un Medic Veterinar
 şi să urmeze un tratament pentru cauza (chiar şi doar prezumtivă) din spatele anemiei.
 
-Starea pisicii trebuie observată atent pe parcursul tratamentului şi trebuie raportată medicului veterinar.
+Starea pisicii trebuie observată atent pe parcursul tratamentului şi trebuie raportată Medicului Veterinar.
 
 Altfel, starea pisicii se poate degrada rapid
 (e.g.: când efectul benefic al transfuziei dispare)
 şi pisica se poate anemia din nou şi poate muri.
 
 Adesea trebuie profitat cât mai mult de îmbunătăţirea, chiar şi temporară, a stării pisicii în urma transfuziei.
-De exemplu, medicul poate recomanda mâncare cât mai hrănitoare pentru a profita de revenirea, chiar şi temporară, a apetitului.
+De exemplu, Medicul poate recomanda mâncare cât mai hrănitoare pentru a profita de revenirea, chiar şi temporară, a apetitului.
 
 Un efect des întâlnit al Anemiei e lipsa apetitului, ceea ce în cazul pisicilor e un aspect foarte grav: dacă o pisică nu mănâncă, starea ei se degradează foarte repede.
 
-În unele cazuri, medicul profită de starea îmbunătăţită, chiar şi temporar, pentru a efectua o intervenţie chirurgicală necesară.
+În unele cazuri, Medicul profită de starea îmbunătăţită, chiar şi temporar, pentru a efectua o intervenţie chirurgicală necesară.
 Într-adevăr, adesea sunt necesare donaţii de sânge tocmai în vederea unei intervenţii chirurgicale (adesea urgente pentru viaţa pisicii).
 
 
@@ -328,9 +410,10 @@ Numele pisicuţei era Whiskas. (-:
 == Contact
 
 Autorul acestui document nu are cunoştinţe medicale.
+Corecţii si sugestii pentru îmbunătăţirea acestui document sunt bine-venite (email: adder_2003@yahoo.com).
+
 E important să consultaţi un Medic Veterinar pentru a primi informaţii mai bune.
 
-Corecţii si sugestii pentru îmbunătăţirea acestui document sunt bine-venite (email: adder_2003@yahoo.com).
 
 
 
